@@ -1,0 +1,78 @@
+{
+    "basic_info": {
+      "name": "Lorenzo Carpaneto",
+      "titles": [ "Software Developer", "Guitar Player" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/lolloz98",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/lorenzo-carpaneto/en",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile_2.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "95"
+        },
+        {
+          "name": "Spring Boot",
+          "class": "devicon-spring-plain",
+          "level": "95"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "80"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "Kotlin",
+          "class": "devicon-kotlin-plain",
+          "level": "80"
+        },
+        {
+          "name": "Android",
+          "class": "devicon-android-plain",
+          "level": "80"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "80"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "80"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "70"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

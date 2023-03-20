@@ -1,0 +1,232 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "<p>👋 I'm Lorenzo Carpaneto. \nAfter the BSc in Electronical engineering and ICT, I drifted towards Computer Science and Engineering. \nI have started my career as a software engineer at Meta. Unfortunately, after the pandemic, I was affected by layoffs and I am now looking for a job. DM me on <a style=\"color:#90EE90\" href=\"https://www.linkedin.com/in/lorenzo-carpaneto/en\">LinkedIn</a> if you know of any exciting opportunity. \nI love coding, playing the guitar and training both at home and outside.</p>",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "MSc Thesis",
+        "startDate": "2022",
+        "description": "Sleep quality is a key aspect of our life: it influences our overall wellness and health. \nEven though it is such a relevant factor, the discussion on how to define it is still open, and there is no consensus. Over the years, many techniques have been developed to study it: some of them require the usage of sensors (also defined as objective techniques) others require the user to fill out questionnaires or use diaries (also defined as subjective techniques). \n\nIn this thesis, we introduce a new framework to collect more, more reliable, and higher quality data regarding sleep: the main idea relies on combining subjective and objective measurements. Not only does the framework provide support to the user in completing the questionnaires, but it is also meant to help build applications that could be used for commercial purposes, clinical purposes, and also for other fields than sleep quality (such as user nutrition). \n\nWe provide an implementation of such a framework in a proof-of-concept application and validate it against data collected from a user monitored for two months. \nEven though the validation is performed on a small dataset, the results obtained are promising: the framework is effective in helping the user filling the questionnaires and keeping track of their sleep quality.",
+        "images": [
+          "images/portfolio/mscThesis/p1.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring Boot"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-kotlin-plain",
+            "name": "Kotlin"
+          },
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "react"
+          }
+        ]
+      },
+      {
+        "title": "Clustering algorithm visualizer",
+        "startDate": "2022",
+        "description": "After attending the DataMining course, I was curious to understand how to make animations to visualize clustering algorithms... So I have created some python notebooks ",
+        "images": [
+          "images/portfolio/clustering_visualize/p1.png",
+          "images/portfolio/clustering_visualize/p2.png"
+        ],
+        "url": "https://github.com/lolloz98/clustering_visualize",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-jupyter-plain",
+            "name": "Jupyter"
+          }
+        ]
+      },
+      {
+        "title": "Masters of Renaissance",
+        "startDate": "2021",
+        "description": "As a project for a course in university, with a team of three people we have developed the client-server version of the game \"Masters of Renaissance\". In this project, we have implemented both a CLI and a GUI. The game could be played with a maximum of 4 players and the server was able to handle multiple games simoultaneously.",
+        "images": [
+          "images/portfolio/master_of_renaissance/p1.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      },
+      {
+        "title": "SYP - Secure Your Place",
+        "startDate": "2020",
+        "description": "As a project for a course in university, with a team of three people we have developed a client-server application to monitor via a device with camera (e.g. raspberrypi) a room or an environment. The device was able to detect if people were in the room: if so, it would send a notification to the user. I have mainly worked on the live-streaming of the video: the server (developed with NodeJS) needed to put in communication the raspberry and the app on the android phone to let former one be able to stream the video. We decided not to publish the app because of the costs due to the server setup (and maintainance).",
+        "images": [
+          "images/portfolio/syp/p1_.svg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          }
+        ]
+      },
+      {
+        "title": "SWERC",
+        "startDate": "2019",
+        "description": "In my third year of university, I have been selected to participate to SWERC, an international competition of competitive programming.",
+        "images": [
+          "images/portfolio/swerc/p1.svg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          }
+        ]
+      },
+      {
+        "title": "Android simple tutorials",
+        "startDate": "2019",
+        "description": "Back in the days I was starting programming for Android. I have made some simple tutorials, both in Kotlin and Java, to show how to handle some basic situations (the link sends to the tutorial about ViewModel).",
+        "images": [
+          "images/portfolio/android_tutorial/p1.png"
+        ],
+        "url": "https://github.com/lolloz98/Android_ViewModel",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-kotlin-plain",
+            "name": "Kotlin"
+          }
+        ]
+      },
+      {
+        "title": "Innovathon",
+        "startDate": "2019",
+        "description": "My team, I Turuk, placed second overall at this competition proposed by Leonardo S.p.A. We had to design and build a vehicle able to move autonomously inside of an ill-lit tunnel to assist injured people with an emergency kit.",
+        "images": [
+          "images/portfolio/innovathon/p1.jpg",
+          "images/portfolio/innovathon/p2.jpg"
+        ],
+        "url": "https://www.leonardo.com/it/innovation-technology/open-innovation/innovation-award/university-students-category-winners",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-raspberrypi-line",
+            "name": "raspberry"
+          },
+          {
+            "class": "devicon-arduino-plain",
+            "name": "arduino"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Software Engineer",
+        "years": "10.2022 - 02.2023",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "Android",
+          "Java",
+          "CI/CD"
+        ]
+      },
+      {
+        "company": "PoliMi - Computer Science and Engineering",
+        "title": "MSc Student",
+        "years": "09.2020 - 07.2022",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "REST API",
+          "Java",
+          "Spring Boot",
+          "JPA",
+          "Compilers",
+          "Software Engineering",
+          "Cyber Security"
+        ]
+      },
+      {
+        "company": "UniGe - Electronical Engineering and ICT",
+        "title": "BSc Student",
+        "years": "09.2017 - 07.2020",
+        "mainTech": [
+          "OOP"
+        ],
+        "technologies": [
+          "C#",
+          ".NET Core",
+          "C",
+          "JavaScript",
+          "NodeJS",
+          "Java",
+          "Android",
+          "Python",
+          "Competitive Programming"
+        ]
+      }
+    ]
+  }

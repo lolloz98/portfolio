@@ -28,7 +28,7 @@
       {
         "title": "Python Games",
         "startDate": "2023",
-        "description": "I have developed small python games using pygames",
+        "description": "I have developed small python games using Pygame",
         "images": [
           "images/portfolio/pygames/dodo_jump.png","images/portfolio/pygames/tetris.png", "images/portfolio/pygames/snake.png"
         ],

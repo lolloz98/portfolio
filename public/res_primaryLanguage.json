@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "<p>👋 I'm Lorenzo Carpaneto. \nAfter the BSc in Electronical engineering and ICT, I drifted towards Computer Science and Engineering. \nDuring the transitions between jobs, I have worked on a couple of personal projects (mainly using python and C++), and I also made a couple of PRs to Blender. \nI love coding, playing the guitar and training both at home and outside.</p>",
+      "description": "<p>👋 I'm Lorenzo Carpaneto. Master's in Computer Science and Engineering, I have started my career at Meta. After being affected by mass layoffs, I worked for Deutsche Bank as a Java Developer. I have made impactful changes: I have reduced the transaction costs by 30% on a particular flow and worked on two impactful changes to refactor the codebase and minimize the tech debt.</p>",
       "section_name": {
         "about": "About me",
         "projects": "Projects",

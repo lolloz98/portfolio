@@ -11,13 +11,43 @@
     },
     "projects": [
       {
+        "title": "Flash Cards",
+        "startDate": "2024",
+        "description": "I have developed a multiplatform (ios, android) application in React Native using typescript.",
+        "images": [
+          "images/portfolio/flash_cards/flash_cards.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React Native"
+          }
+        ]
+      },
+      {
+        "title": "Python Games",
+        "startDate": "2023",
+        "description": "I have developed small python games using pygames",
+        "images": [
+          "images/portfolio/pygames/dodo_jump.png","images/portfolio/pygames/tetris.png", "images/portfolio/pygames/snake.png"
+        ],
+        "url": "https://github.com/lolloz98/pygame_games",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
         "title": "MSc Thesis",
         "startDate": "2022",
         "description": "Sleep quality is a key aspect of our life: it influences our overall wellness and health. \nEven though it is such a relevant factor, the discussion on how to define it is still open, and there is no consensus. Over the years, many techniques have been developed to study it: some of them require the usage of sensors (also defined as objective techniques) others require the user to fill out questionnaires or use diaries (also defined as subjective techniques). \n\nIn this thesis, we introduce a new framework to collect more, more reliable, and higher quality data regarding sleep: the main idea relies on combining subjective and objective measurements. Not only does the framework provide support to the user in completing the questionnaires, but it is also meant to help build applications that could be used for commercial purposes, clinical purposes, and also for other fields than sleep quality (such as user nutrition). \n\nWe provide an implementation of such a framework in a proof-of-concept application and validate it against data collected from a user monitored for two months. \nEven though the validation is performed on a small dataset, the results obtained are promising: the framework is effective in helping the user filling the questionnaires and keeping track of their sleep quality. \nI have written a paper that will be published soon and it was presented at the IEEE conference ICHI",
         "images": [
           "images/portfolio/mscThesis/p1.png"
         ],
-        "url": "",
+        "url": "https://ieeexplore.ieee.org/document/10336968",
         "technologies": [
           {
             "class": "devicon-java-plain",

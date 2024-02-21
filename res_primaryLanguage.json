@@ -20,6 +20,10 @@
         "url": "",
         "technologies": [
           {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
             "class": "devicon-react-plain",
             "name": "React Native"
           }

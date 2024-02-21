@@ -49,6 +49,16 @@
           "level": "80"
         },
         {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "60"
+        },
+        {
+          "name": "Oracle",
+          "class": "devicon-oracle-plain",
+          "level": "60"
+        },
+        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "80"

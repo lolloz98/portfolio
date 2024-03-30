@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "<p>👋 I'm Lorenzo Carpaneto. Master's in Computer Science and Engineering, I have started my career at Meta. After being affected by mass layoffs, I worked for Deutsche Bank as a Java Developer. I have made impactful changes: I have reduced the transaction costs by 30% on a particular flow and worked on two impactful changes to refactor the codebase and minimize the tech debt.</p>",
+      "description": "<p>I'm Lorenzo Carpaneto. Master's in Computer Science and Engineering. Here are some of the impactful changes I contributed to in my career:</p><figure><figcaption>Deutsche Bank</figcaption><ul><li>Reduced the number of transactions by 30% in a specific system, effectively reducing costs for the company. </li><li>Performed large code migration to improve correctness, stability, and maintainability.</li><li>Developed a new tool for parsing (using lex and bison-like tools) and visualizing (using cytoscape.js) complex state machine. Used TypeScript and React for the UI.</li><li>Helped in the development of new features. Worked with Java, Kotlin, Spring-Boot, Linux, Oracle SQL, React, and TypeScript. Resolved many bugs by inspecting production problems.</li></ul></figure><figure><figcaption>Meta</figcaption><ul><li> Implemented and tested a new feature for Workplace Android application. </li><li> Worked on solving issues using Flow, C++, Java and Kotlin.</li></ul>",
       "section_name": {
         "about": "About me",
         "projects": "Projects",

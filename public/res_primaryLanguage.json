@@ -11,33 +11,18 @@
     },
     "projects": [
       {
-        "title": "Flash Cards",
-        "startDate": "2024",
-        "description": "I have developed a multiplatform (ios, android) application in React Native using typescript.",
-        "images": [
-          "images/portfolio/flash_cards/flash_cards.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-react-plain",
-            "name": "React Native"
-          }
-        ]
-      },
-      {
-        "title": "Python Games",
+        "title": "Blender",
         "startDate": "2023",
-        "description": "I have developed small python games using Pygame",
+        "description": "I have developed a couple of Pull-Requests for the open source platform Blender.",
         "images": [
-          "images/portfolio/pygames/dodo_jump.png","images/portfolio/pygames/tetris.png", "images/portfolio/pygames/snake.png"
+          "images/portfolio/blender/logo.png"
         ],
-        "url": "https://github.com/lolloz98/pygame_games",
+        "url": "https://projects.blender.org/Lorenzo-Carpaneto",
         "technologies": [
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          },
           {
             "class": "devicon-python-plain",
             "name": "Python"
@@ -76,6 +61,59 @@
           {
             "class": "devicon-react-plain",
             "name": "react"
+          }
+        ]
+      },
+      {
+        "title": "Scarlet - Android Websocket",
+        "startDate": "2019",
+        "description": "Developed a demo of the Scarlet library to explain the library. Received positive comments on it by the community. The library is about websockets for Android and it has been developed by Tinder.",
+        "images": [
+          "images/portfolio/scarlet/1.png"
+        ],
+        "url": "https://github.com/Tinder/Scarlet/pull/140",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-kotlin-plain",
+            "name": "Kotlin"
+          }
+        ]
+      },
+      {
+        "title": "Flash Cards",
+        "startDate": "2024",
+        "description": "I have developed a multiplatform (ios, android) application in React Native using typescript.",
+        "images": [
+          "images/portfolio/flash_cards/flash_cards.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React Native"
+          }
+        ]
+      },
+      {
+        "title": "Python Games",
+        "startDate": "2023",
+        "description": "I have developed small python games using Pygame",
+        "images": [
+          "images/portfolio/pygames/dodo_jump.png","images/portfolio/pygames/tetris.png", "images/portfolio/pygames/snake.png"
+        ],
+        "url": "https://github.com/lolloz98/pygame_games",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       },

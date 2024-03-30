@@ -84,6 +84,49 @@
         ]
       },
       {
+        "title": "SWERC",
+        "startDate": "2019",
+        "description": "In my third year of university, I have been selected to participate to SWERC, an international competition of competitive programming.",
+        "images": [
+          "images/portfolio/swerc/p1.svg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          }
+        ]
+      },
+      {
+        "title": "Innovathon",
+        "startDate": "2019",
+        "description": "My team, I Turuk, placed second overall at this competition proposed by Leonardo S.p.A. We had to design and build a vehicle able to move autonomously inside of an ill-lit tunnel to assist injured people with an emergency kit.",
+        "images": [
+          "images/portfolio/innovathon/p1.jpg",
+          "images/portfolio/innovathon/p2.jpg"
+        ],
+        "url": "https://www.leonardo.com/it/innovation-technology/open-innovation/innovation-award/university-students-category-winners",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-raspberrypi-line",
+            "name": "raspberry"
+          },
+          {
+            "class": "devicon-arduino-plain",
+            "name": "arduino"
+          }
+        ]
+      },
+      {
         "title": "Flash Cards",
         "startDate": "2024",
         "description": "I have developed a multiplatform (ios, android) application in React Native using typescript.",
@@ -184,25 +227,6 @@
         ]
       },
       {
-        "title": "SWERC",
-        "startDate": "2019",
-        "description": "In my third year of university, I have been selected to participate to SWERC, an international competition of competitive programming.",
-        "images": [
-          "images/portfolio/swerc/p1.svg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "Python"
-          },
-          {
-            "class": "devicon-cplusplus-plain",
-            "name": "C++"
-          }
-        ]
-      },
-      {
         "title": "Android simple tutorials",
         "startDate": "2019",
         "description": "Back in the days I was starting programming for Android. I have made some simple tutorials, both in Kotlin and Java, to show how to handle some basic situations (the link sends to the tutorial about ViewModel).",
@@ -222,30 +246,6 @@
           {
             "class": "devicon-kotlin-plain",
             "name": "Kotlin"
-          }
-        ]
-      },
-      {
-        "title": "Innovathon",
-        "startDate": "2019",
-        "description": "My team, I Turuk, placed second overall at this competition proposed by Leonardo S.p.A. We had to design and build a vehicle able to move autonomously inside of an ill-lit tunnel to assist injured people with an emergency kit.",
-        "images": [
-          "images/portfolio/innovathon/p1.jpg",
-          "images/portfolio/innovathon/p2.jpg"
-        ],
-        "url": "https://www.leonardo.com/it/innovation-technology/open-innovation/innovation-award/university-students-category-winners",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "Python"
-          },
-          {
-            "class": "devicon-raspberrypi-line",
-            "name": "raspberry"
-          },
-          {
-            "class": "devicon-arduino-plain",
-            "name": "arduino"
           }
         ]
       }

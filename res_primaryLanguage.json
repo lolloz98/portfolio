@@ -1,6 +1,6 @@
 {
     "basic_info": {
-      "description_header": "Hi",
+      "description_header": "Hello,",
       "description": "<p>I'm Lorenzo Carpaneto. Master's in Computer Science and Engineering. Here are some of the impactful changes I contributed to in my career:</p><figure><figcaption>Deutsche Bank</figcaption><ul><li>Reduced the number of transactions by 30% in a specific system, effectively reducing costs for the company. </li><li>Performed large code migration to improve correctness, stability, and maintainability.</li><li>Developed a new tool for parsing (using lex and bison-like tools) and visualizing (using cytoscape.js) complex state machine. Used TypeScript and React for the UI.</li><li>Helped in the development of new features. Worked with Java, Kotlin, Spring-Boot, Linux, Oracle SQL, React, and TypeScript. Resolved many bugs by inspecting production problems.</li></ul></figure><figure><figcaption>Meta</figcaption><ul><li> Implemented and tested a new feature for Workplace Android application. </li><li> Worked on solving issues using Flow, C++, Java and Kotlin.</li></ul>",
       "section_name": {
         "about": "About me",
@@ -88,7 +88,7 @@
         "startDate": "2019",
         "description": "In my third year of university, I have been selected to participate to SWERC, an international competition of competitive programming.",
         "images": [
-          "images/portfolio/swerc/p1.svg"
+          "images/portfolio/swerc/p1.png"
         ],
         "url": "",
         "technologies": [
@@ -187,7 +187,7 @@
         "images": [
           "images/portfolio/master_of_renaissance/p1.png"
         ],
-        "url": "",
+        "url": "https://github.com/lolloz98/Masters-of-Renaissance",
         "technologies": [
           {
             "class": "devicon-java-plain",
@@ -200,7 +200,7 @@
         "startDate": "2020",
         "description": "As a project for a course in university, with a team of three people we have developed a client-server application to monitor via a device with camera (e.g. raspberrypi) a room or an environment. The device was able to detect if people were in the room: if so, it would send a notification to the user. I have mainly worked on the live-streaming of the video: the server (developed with NodeJS) needed to put in communication the raspberry and the app on the android phone to let former one be able to stream the video. We decided not to publish the app because of the costs due to the server setup (and maintainance).",
         "images": [
-          "images/portfolio/syp/p1_.svg"
+          "images/portfolio/syp/p1_.png"
         ],
         "url": "",
         "technologies": [

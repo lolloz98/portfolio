@@ -263,7 +263,8 @@
           "Kotlin", 
           "SpringBoot",
           "Grafana",
-          "Prometheus"
+          "Prometheus",
+          "TypeScript"
         ]
       },
       {
@@ -275,6 +276,7 @@
         ],
         "technologies": [
           "Android",
+          "Kotlin",
           "Java",
           "CI/CD"
         ]

@@ -65,6 +65,21 @@
         ]
       },
       {
+        "title": "LLVM",
+        "startDate": "2024",
+        "description": "I have entered the world of compilers, and developed a small PR for the LLVM project.",
+        "images": [
+          "images/portfolio/llvm/logo.jpeg"
+        ],
+        "url": "https://github.com/llvm/llvm-project/pull/90255",
+        "technologies": [
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          }
+        ]
+      },
+      {
         "title": "Scarlet - Android Websocket",
         "startDate": "2019",
         "description": "Developed a demo of the Scarlet library to explain the library. Received positive comments on it by the community. The library is about websockets for Android and it has been developed by Tinder.",

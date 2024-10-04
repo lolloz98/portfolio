@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello,",
-      "description": "<p>I'm Lorenzo Carpaneto. Master's in Computer Science and Engineering. Here are some of the impactful changes I contributed to in my career:</p><figure><figcaption>Deutsche Bank</figcaption><ul><li>Reduced the number of transactions by 30% in a specific system, effectively reducing costs for the company.</li><li>Improved the synchronization between our services and external systems.<ul><li>Re-designed the database schema and how different components share data. This change enabled us to reduce concurrency issues and have a clear history of changes made by the external systems. It also improved data quality: the data is more understandable and is much easier to query.</li><li>Decommissioned a component, reducing complexity, development time, and concurrency issues.</li></ul></li><li>Performed large code migration to improve correctness, stability, and maintainability.</li><li>Developed a new tool for parsing (using lex and bison-like tools) and visualizing (using cytoscape.js) complex state machine. Used TypeScript and React for the UI.</li><li>Helped in the development of new features. Worked with Java, Kotlin, Spring-Boot, Linux, Oracle SQL, React, and TypeScript. Resolved many bugs by inspecting production problems.</li></ul></figure><figure><figcaption>Meta</figcaption><ul><li> Implemented and tested a new feature for Workplace Android application. </li><li> Worked on solving issues using Flow, C++, Java and Kotlin.</li></ul>",
+      "description": "<p>I'm Lorenzo Carpaneto. Master's in Computer Science and Engineering. Here are some of the impactful changes I contributed to in my career:</p><figure><figcaption>SquarePoint Capital | Quantitative Developer | Oct 2024 - Present</figcaption><ul><li>Working with C++ and Trading Strategies</li></ul></figure><figure><figcaption>Deutsche Bank | Java Developer | Jun 2023 - Sep 2024</figcaption><ul><li>Improved performance of a critical system by >10x by parallelizing processing and reducing the complexity of an algorithm from O(n^2) to O(n)</li><li>Reduced the number of transactions by 30% in a specific system, effectively reducing costs for the company.</li><li>Improved the synchronization between our services and external systems.<ul><li>Re-designed the database schema and how different components share data. This change enabled us to reduce concurrency issues and have a clear history of changes made by the external systems. It also improved data quality: the data is more understandable and is much easier to query.</li><li>Decommissioned a component, reducing complexity, development time, and concurrency issues.</li></ul></li><li>Performed large code migration to improve correctness, stability, and maintainability.</li><li>Developed a new tool for parsing (using lex and bison-like tools) and visualizing (using cytoscape.js) complex state machine. Used TypeScript and React for the UI.</li><li>Helped in the development of new features. Worked with Java, Kotlin, Spring-Boot, Linux, Oracle SQL, React, and TypeScript. Resolved many bugs by inspecting production problems.</li></ul></figure><figure><figcaption>Meta | Software Engineer | Oct 2022 - Feb 2023</figcaption><ul><li> Implemented and tested a new feature for Workplace Android application. </li><li> Worked on solving issues using Flow, C++, Java and Kotlin.</li></ul>",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -10,6 +10,29 @@
       }
     },
     "projects": [
+      {
+        "title": "MaGrAct",
+        "startDate": "2024",
+        "description": "Developed MaGrAct, a tool for creating math animations.",
+        "images": [
+          "images/portfolio/magract/p1.jpg"
+        ],
+        "url": "https://lolloz98.github.io/MaGrAct/",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-vite-plain",
+            "name": "Vite"
+          }
+        ]
+      },
       {
         "title": "Blender",
         "startDate": "2023",
@@ -267,9 +290,21 @@
     ],
     "experience": [
       {
+        "company": "SquarePoint Capital",
+        "title": "Quantitative Developer",
+        "years": "10.2024 - Present",
+        "mainTech": [
+          "C++"
+        ],
+        "technologies": [
+          "C++", 
+          "Python"
+        ]
+      },
+      {
         "company": "Deutsche Bank",
         "title": "Java Developer",
-        "years": "06.2023 - Present",
+        "years": "06.2023 - 09.2024",
         "mainTech": [
           "Java"
         ],

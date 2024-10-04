@@ -290,9 +290,21 @@
     ],
     "experience": [
       {
+        "company": "SquarePoint Capital",
+        "title": "Quantitative Developer",
+        "years": "10.2024 - Present",
+        "mainTech": [
+          "C++"
+        ],
+        "technologies": [
+          "C++", 
+          "Python"
+        ]
+      },
+      {
         "company": "Deutsche Bank",
         "title": "Java Developer",
-        "years": "06.2023 - Present",
+        "years": "06.2023 - 09.2024",
         "mainTech": [
           "Java"
         ],

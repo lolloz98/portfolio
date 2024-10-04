@@ -11,6 +11,29 @@
     },
     "projects": [
       {
+        "title": "MaGrAct",
+        "startDate": "2024",
+        "description": "Developed MaGrAct, a tool for creating math animations.",
+        "images": [
+          "images/portfolio/magract/p1.jpg"
+        ],
+        "url": "https://lolloz98.github.io/MaGrAct/",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-vite-plain",
+            "name": "Vite"
+          }
+        ]
+      },
+      {
         "title": "Blender",
         "startDate": "2023",
         "description": "I have developed a couple of Pull-Requests for the open source platform Blender.",
